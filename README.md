@@ -2,7 +2,7 @@
 
 ## What is this guide and who is it for?
 
-The information in the guide is primarily intended for instructors who either currently are or will be teaching a course in the UC Berkeley Data Science Education Program: either a connector course, a data-enabled course, or a course featuring a data science module. However, anyone else who wants to learn more about the program, the courses, and the technology is encouraged to look through the guide.
+The information in the guide is primarily intended for ...
 
 ## Modify This Content
 
