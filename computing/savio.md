@@ -16,3 +16,11 @@ Introduction to High Performance Computing with Savio Training
 1. Click [My BRC Cluster Projects](https://mybrc.brc.berkeley.edu/project/), then [Join a project](https://mybrc.brc.berkeley.edu/project/join/).
 1. Click `Search` and search for `pc_cdssdisc` in the *Project Name* field.
 1. Click `Join` on the project entry.
+
+## Sensitive Data
+
+Those who will be working with data classified as P2 or P3 can still use Savio, but the data needs to be maintained in a [secure directory](https://docs-research-it.berkeley.edu/services/high-performance-computing/getting-account/sensitive-accounts/#steps-for-sensitive-data) there. You will then need to consult with the Research Data Management (RDM) team to review the sensitivity of the data.
+
+## Secure Research Data and Compute
+
+The [Secure Research Data and Compute (SRDC) Platform](https://docs-research-it.berkeley.edu/services/srdc/) is a secure computing environment developed for researchers working with highly sensitive P4 data. The SRDC includes high performance computing (HPC), computing on virtual machines (VMs) with Linux and Windows servers, and protected storage for both options. A combined approach of providing data management and computation support helps researchers integrate data management best practices into their larger research workflows. Through a coalition of partners from across campus, the SRDC Platform has been designed for use by a broad range of researchers, without compromising usability or performance.
