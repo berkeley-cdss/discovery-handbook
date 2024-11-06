@@ -13,6 +13,7 @@ project:
     - file: index.md
     - title: Team Compass
       children:
+      - file: team/about.md
       - file: team/github.md
       - file: team/calendar.md
       - file: team/communication.md
