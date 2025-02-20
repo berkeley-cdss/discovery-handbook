@@ -20,6 +20,7 @@ project:
     - title: Computing Infrastructure
       children:
       - file: computing/savio.md
+      - file: computing/datahub.md
     - title: Support
       children:
       - file: support/contact-us.md
